@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Вин</string>
+    <string name="text_policy">GUESS THE ANIMAL is a free app. To play the game you need to accept our <u>privacy policy</u>.</string>
+    <string name="file_chooser_title" translatable="false">choose file</string>
+    <string name="cannot_open_file_chooser_txt" translatable="false">Open file</string>
+</resources>
